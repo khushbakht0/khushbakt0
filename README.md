@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Khushbakht%20Sohail&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Full%20Stack&descAlignY=60&descSize=18&animation=fadeIn)](https://github.com/khushbakt0)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=khushbakht%20sohail&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Full%20Stack&descAlignY=60&descSize=18&animation=fadeIn)](https://github.com/khushbakt0)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=9D74F0&center=true&vCenter=true&repeat=true&width=600&lines=Data+Science+%40+FAST-NU+Lahore;Machine+Learning+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tannin--studio.netlify.app-4F46E5?style=for-the-badge&logo=netlify&logoColor=white)](https://tannin-studio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-khushbakhtsohail.netlify.app-4F46E5?style=for-the-badge&logo=netlify&logoColor=white)](https://tannin-studio.netlify.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushbakht-sohail-b40024370)
 &nbsp;
@@ -24,7 +24,7 @@
 
 ## About
 
-BS Data Science @ **FAST-NU Lahore** (3.3/4.0 CGPA). I build ML pipelines and full-stack platforms — from feature-engineered models (Scikit-learn, Pandas, NumPy) to REST APIs and React frontends. Also write low-level systems code in C, C++, and x86 Assembly.
+BS Data Science @ **FAST-NU Lahore** . I build ML pipelines and full-stack platforms —from feature-engineered models (Scikit-learn, Pandas, NumPy) to REST APIs and React frontends. Also write low-level systems code in C, C++, and x86 Assembly.
 
 ---
 
@@ -32,7 +32,7 @@ BS Data Science @ **FAST-NU Lahore** (3.3/4.0 CGPA). I build ML pipelines and fu
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,bootstrap,nodejs,express,mysql,postgres,git,github,postman&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,bootstrap,nodejs,express,mysql,git,github,postman&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
@@ -42,12 +42,12 @@ BS Data Science @ **FAST-NU Lahore** (3.3/4.0 CGPA). I build ML pipelines and fu
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain | Details |
 |--------|-------------|---------|
-| **Statistical Modeling** | ██████████ Advanced | Linear & Multiple Regression, KNN, hyperparameter tuning |
-| **Data Manipulation** | ██████████ Advanced | Pandas, NumPy — ETL pipelines, feature engineering |
-| **Model Evaluation** | █████████░ Proficient | R², MAE, RMSE, cross-validation |
-| **EDA & Visualization** | █████████░ Proficient | Matplotlib, Seaborn — heatmaps, outlier detection |
+| **Statistical Modeling** | Linear & Multiple Regression, KNN, hyperparameter tuning |
+| **Data Manipulation** |Pandas, NumPy — ETL pipelines, feature engineering |
+| **Model Evaluation** |Proficient | R², MAE, RMSE, cross-validation |
+| **EDA & Visualization** |Proficient | Matplotlib, Seaborn — heatmaps, outlier detection |
 
 </div>
 
@@ -156,8 +156,6 @@ open_to:    [Data Science internships, Full-stack roles, Open source]
 ---
 
 <div align="center">
-
-*"In God we trust; all others must bring data."* — W. Edwards Deming
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn)](https://github.com/khushbakt0)
 
