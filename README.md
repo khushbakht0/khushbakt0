@@ -7,15 +7,15 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Academic-FAST--NU%20Lahore-7C3AED?style=flat-square&logo=read-the-docs&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-3B82F6?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Academic-FAST--NU%20Lahore-7C3AED?style=flat-square" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-3B82F6?style=flat-square" alt="Location Badge" />
 </div>
 
 <div align="center">
-  <a href="https://tannin-studio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Premium%20Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/khushbakht-sohail-b40024370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:khushbakhtsohail101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/khushbakt0"><img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://tannin-studio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Premium%20Site-8B5CF6?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/khushbakht-sohail-b40024370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:khushbakhtsohail101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge" alt="Email" /></a>
+  <a href="https://github.com/khushbakt0"><img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge" alt="GitHub" /></a>
 </div>
 
 <div align="center">
@@ -26,44 +26,44 @@
 
 ---
 
-## ## 🪐 About Me
+## About Me
 
-I am a focused **Data Science Student at FAST-NU Lahore**[cite: 1] specializing in modern machine learning infrastructure, predictive architectures, and clean product-focused full-stack development[cite: 1]. I blend algorithmic logic with robust engineering to design and evaluate intelligence systems engineered for real-world impact[cite: 1].
+I am a focused Data Science Student at FAST-NU Lahore[cite: 1] specializing in modern machine learning infrastructure, predictive architectures, and clean product-focused full-stack development[cite: 1]. I blend algorithmic logic with robust engineering to design and evaluate intelligence systems engineered for real-world impact[cite: 1].
 
-*   **⚡ Core Philosophy:** Moving past basic heuristics to design performant, data-driven software solutions.
-*   **🧠 Specialization:** Actively refining predictive pipelines[cite: 1], building structural data operations, and exploring LLM paradigms.
-*   **🛠️ Full-Stack Paradigm:** Architecting asynchronous database environments[cite: 1] linked to clear, custom interactive frontends[cite: 1].
+*   Core Philosophy: Moving past basic heuristics to design performant, data-driven software solutions.
+*   Specialization: Actively refining predictive pipelines[cite: 1], building structural data operations, and exploring LLM paradigms.
+*   Full-Stack Paradigm: Architecting asynchronous database environments[cite: 1] linked to clear, custom interactive frontends[cite: 1].
 
-### 💼 Open To
-> **Available for Onsite Internships starting mid-June 2026.**[cite: 1] Actively interviewing for Data Science, Machine Learning, and Full Stack Engineering tracks.
+### Open To
+> Available for Onsite Internships starting mid-June 2026[cite: 1]. Actively interviewing for Data Science, Machine Learning, and Full Stack Engineering tracks.
 
 ---
 
-## ## 🛠️ Tech Stack
+## Tech Stack
 
-### 🚀 Languages
+### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,sql,html,css" alt="Languages" />
 </p>
 
-### 💻 Frontend & Interfaces
+### Frontend & Interfaces
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend" />
 </p>
 
-### ⚙️ Backend & Database Infrastructure
+### Backend & Database Infrastructure
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" alt="Backend" />
 </p>
 
-### 🛡️ Tooling, Verification & DevOps
+### Tooling, Verification & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman" alt="DevOps" />
 </p>
 
 ---
 
-## ## 🧠 AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
@@ -74,9 +74,9 @@ I am a focused **Data Science Student at FAST-NU Lahore**[cite: 1] specializing 
 
 ---
 
-## ## 📁 Featured Projects
+## Featured Projects
 
-### <details><summary>💻 01. lendiogo — Asset Lending Platform</summary>
+### <details><summary>01. lendiogo — Asset Lending Platform</summary>
 
 #### System Overview
 An asynchronous full-stack platform managing peer-to-peer asset workflows, authentication parameters, and rental reservation lifecycles[cite: 1].
@@ -93,7 +93,7 @@ An asynchronous full-stack platform managing peer-to-peer asset workflows, authe
 Built the end-to-end framework as a Full Stack Developer[cite: 1]. Authored the REST endpoint layer while using systematic Git development strategies (isolated branch configurations, pull request standard protocols, and comprehensive design iterations) to protect state stability[cite: 1].
 </details>
 
-### <details><summary>📊 02. Air Quality Index Predictor</summary>
+### <details><summary>02. Air Quality Index Predictor</summary>
 
 #### System Overview
 An analytical pipeline engineered to process environmental telemetry data points and compute localized metric changes[cite: 1].
@@ -102,15 +102,15 @@ An analytical pipeline engineered to process environmental telemetry data points
 | :--- | :--- |
 | **Stack** | Python, Scikit-learn, Pandas, Matplotlib[cite: 1] |
 | **Scale** | Multi-variable localized environmental parameter tracking[cite: 1] |
-| **Performance** | **85% predictive metric accuracy** realized through optimized KNN[cite: 1] |
+| **Performance** | 85% predictive metric accuracy realized through optimized KNN[cite: 1] |
 | **Metrics** | Rigorously verified using mathematical $R^2$, MAE, and RMSE benchmarks[cite: 1] |
 | **Repository** | [View Source Code ↗](https://github.com/khushbakt0)[cite: 1] |
 
 #### Architecture Deep Dive
-Conducted comprehensive **Feature Importance Analysis** to map and mathematically define key pollution variables[cite: 1]. Successfully contrasted performance layouts between Multiple Linear Regression structures and K-Nearest Neighbors algorithmic pipelines to optimize prediction latency[cite: 1].
+Conducted comprehensive Feature Importance Analysis to map and mathematically define key pollution variables[cite: 1]. Successfully contrasted performance layouts between Multiple Linear Regression structures and K-Nearest Neighbors algorithmic pipelines to optimize prediction latency[cite: 1].
 </details>
 
-### <details><summary>🌐 03. Tannin Studio — Commercial Web Infrastructure</summary>
+### <details><summary>03. Tannin Studio — Commercial Web Infrastructure</summary>
 
 #### System Overview
 High-performance consumer-facing corporate digital platform deployed for real-world client interaction[cite: 1].
@@ -127,7 +127,7 @@ High-performance consumer-facing corporate digital platform deployed for real-wo
 Designed and engineered the client framework completely from scratch[cite: 1]. Built fluid layout adaptations without heavy UI framework reliance to maximize cross-device styling parity and execution metrics.
 </details>
 
-### <details><summary>⚙️ 04. Systems Engineering & Low-Level Portfolios</summary>
+### <details><summary>04. Systems Engineering & Low-Level Portfolios</summary>
 
 #### Production Components
 *   **MVC Multivariable Calculus Visualizer:** Python graphics execution engine mapping planes, spheres, and space vectors for definite spatial integrals[cite: 1].
@@ -137,35 +137,35 @@ Designed and engineered the client framework completely from scratch[cite: 1]. B
 
 ---
 
-## ## 💼 Experience
+## Experience
 
 ### **Head of PR Department** | SOFTEC (FAST Lahore)[cite: 1]
 *2024 — Present*[cite: 1]
 
-*   Direct complete public relations architecture, media communication pipelines, and outreach initiatives for the **largest annual IT conference at FAST Lahore**, serving **1,000+ active attendees**[cite: 1].
+*   Direct complete public relations architecture, media communication pipelines, and outreach initiatives for the largest annual IT conference at FAST Lahore, serving 1,000+ active attendees[cite: 1].
 *   Formulate multi-channel communication strategies and maintain partnership networks with prominent corporate sponsors and external entities[cite: 1].
 *   **Skills:** `Corporate Relations` · `Strategic Outreach` · `Public Communication` · `Team Leadership`[cite: 1]
 
 ---
 
-## ## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
 | :--- | :--- |
-| **Academic Performance** | Earned and maintained a **3.3 / 4.0 CGPA** in BS Data Science at FAST-NU Lahore[cite: 1] |
-| **FSc Pre-Medical Excellence** | Achieved **1012 / 1100** marks within the 2023 National Examination Board[cite: 1] |
-| **Matriculation Distinction** | Achieved **1087 / 1100** marks in the 2021 Graduating Cohort[cite: 1] |
+| **Academic Performance** | Earned and maintained a 3.3 / 4.0 CGPA in BS Data Science at FAST-NU Lahore[cite: 1] |
+| **FSc Pre-Medical Excellence** | Achieved 1012 / 1100 marks within the 2023 National Examination Board[cite: 1] |
+| **Matriculation Distinction** | Achieved 1087 / 1100 marks in the 2021 Graduating Cohort[cite: 1] |
 | **Code Documentation Standards** | All production repositories maintained with clean structures, explicit typing, and complete readmes[cite: 1] |
 
 </div>
 
 ---
 
-## ## 📜 Certifications
+## Certifications
 
-### **FAST National University Coursework**[cite: 1]
+### FAST National University Coursework[cite: 1]
 *   <img src="https://img.shields.io/badge/Core-Machine%20Learning-6366F1?style=flat-square" alt="ML" />[cite: 1]
 *   <img src="https://img.shields.io/badge/Core-Data%20Analysis-9333EA?style=flat-square" alt="Data Analysis" />[cite: 1]
 *   <img src="https://img.shields.io/badge/Core-Database%20Systems-3B82F6?style=flat-square" alt="Database Systems" />[cite: 1]
@@ -173,17 +173,17 @@ Designed and engineered the client framework completely from scratch[cite: 1]. B
 
 ---
 
-## ## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
-  <a href="https://github.com/khushbakt0"><img src="https://img.shields.io/badge/LeetCode-Profile--Access-EA580C?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://github.com/khushbakt0"><img src="https://img.shields.io/badge/GeeksforGeeks-Data--Structures-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
-  <a href="https://github.com/khushbakt0"><img src="https://img.shields.io/badge/HackerRank-Verified-059669?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://github.com/khushbakt0"><img src="https://img.shields.io/badge/LeetCode-Profile--Access-EA580C?style=for-the-badge" alt="LeetCode" /></a>
+  <a href="https://github.com/khushbakt0"><img src="https://img.shields.io/badge/GeeksforGeeks-Data--Structures-16A34A?style=for-the-badge" alt="GFG" /></a>
+  <a href="https://github.com/khushbakt0"><img src="https://img.shields.io/badge/HackerRank-Verified-059669?style=for-the-badge" alt="HackerRank" /></a>
 </div>
 
 ---
 
-## ## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushbakt0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D74F0&icon_color=7C3AED&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
@@ -195,7 +195,7 @@ Designed and engineered the client framework completely from scratch[cite: 1]. B
 
 ---
 
-## ## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khushbakt0&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
@@ -203,7 +203,7 @@ Designed and engineered the client framework completely from scratch[cite: 1]. B
 
 ---
 
-## ## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushbakt0&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
@@ -211,7 +211,7 @@ Designed and engineered the client framework completely from scratch[cite: 1]. B
 
 ---
 
-## ## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -223,7 +223,7 @@ Designed and engineered the client framework completely from scratch[cite: 1]. B
 
 ---
 
-## ## ⚙️ Current Focus
+## Current Focus
 
 ```yaml
 learning:
